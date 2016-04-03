@@ -7,7 +7,7 @@ public class rotateScript : MonoBehaviour {
 	void Start () {
 
 		var e = GameObject.Find("E");
-		var k2 = GameObject.Find("K2");
+		var k2 = GameObject.Find("K2Title");
 		var k = GameObject.Find("K");
 		var l = GameObject.Find("L");
 		var m = GameObject.Find("M");

@@ -45,8 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CoonScript.cs" />
-     <Compile Include="Assets\NIggerScript.cs" />
+     <Compile Include="Assets\rotateScript.cs" />
+     <Compile Include="Assets\zoomScript.cs" />
      <None Include="Assets\Earth\Readme.txt" />
      <None Include="Assets\Earth\Materials\EarthShader.shader" />
  <Reference Include="UnityEngine.Networking">
